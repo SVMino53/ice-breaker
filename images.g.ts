@@ -4,7 +4,7 @@ namespace myImages {
     helpers._registerFactory("image", function(name: string) {
         switch(helpers.stringTrim(name)) {
 
-            case "image10":
+            case "image21":
             case "iceberg-0":return img`
 ................................................................................................................................................................
 ................................................................................................................................................................
@@ -127,7 +127,7 @@ namespace myImages {
 ................................................................................................................................................................
 ................................................................................................................................................................
 `;
-            case "image11":
+            case "image22":
             case "iceberg-1":return img`
 ................................................................................................................................................................
 ................................................................................................................................................................
@@ -250,7 +250,7 @@ namespace myImages {
 ................................................................................................................................................................
 ................................................................................................................................................................
 `;
-            case "image12":
+            case "image23":
             case "iceberg-2":return img`
 ................................................................................................................................................................
 ................................................................................................................................................................
@@ -1356,7 +1356,6 @@ eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 1111eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-
             case "image2":
             case "Sailor1":return img`
 . . . . . . f f f f . . . . . . 
@@ -1662,7 +1661,6 @@ eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `];
-
         }
         return null;
     })
