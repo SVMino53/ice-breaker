@@ -3,6 +3,7 @@ namespace myImages {
 
     helpers._registerFactory("image", function(name: string) {
         switch(helpers.stringTrim(name)) {
+
             case "image2":
             case "Sailor1":return img`
 . . . . . . f f f f . . . . . . 
@@ -307,6 +308,7 @@ namespace myImages {
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `];
+
         }
         return null;
     })
