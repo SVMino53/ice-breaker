@@ -1,0 +1,12 @@
+{
+    "E0BA-wz?-/2lXv[=DA#m": {
+        "data": "hwQQABAAAAAAADAzMwAAAAAAMzMzAwAAADMzMzMzAAAAM/MzMzMAADAz8zPzMwMAMDMzM/MzAwAwMzMz8zMDADAzPzP/MwMAMDPzMzMzAwAAMzMzMzMDAAAzMzMzMwAAADMzMzMDAAAAMDMzMwAAAAAAMzMDAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Test"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
